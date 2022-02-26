@@ -9,6 +9,6 @@ Enter the file name in the 'for loop'
 
 chmod +x scripname.sh
 
-Do a GCP auth login 
+Do a gcloud auth login 
 
 Run the script from the terminal
