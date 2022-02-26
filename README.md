@@ -4,7 +4,8 @@ This Shell Script will get the details of the Unattached PVC's from multiple GCP
 # Usage
 
 Enter all the projects in a file
-Cat the file in the for loop
+
+Cat the file in the 'for loop'
 
 chmod +x scripname.sh
 
